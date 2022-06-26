@@ -5,4 +5,5 @@ Nama buah :
 -leci
 -pisang
 -buah naga
--mangga
+-semangka
+
