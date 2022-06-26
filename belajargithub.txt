@@ -1,6 +1,6 @@
 Nama buah :
 -apel
 -anggur
--nanas
 -leci
 -pisang
+-buah naga
