@@ -1,6 +1,8 @@
 Nama buah :
 -apel
 -anggur
+-pepaya
 -leci
 -pisang
 -buah naga
+-mangga
