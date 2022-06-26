@@ -2,4 +2,5 @@ Nama buah :
 -apel
 -anggur
 -nanas
-
+-leci
+-pisang
